@@ -1,0 +1,38 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+h1 {
+  font-size: 50px;
+}
+
+.name-color {
+  color: deeppink;
+}
+section {
+  display: flex;
+}
+.half-wadth {
+  width: 50%;
+  padding: 5px;
+}
+.half-wadth img {
+  width: 50%;
+}
+.link-button{text-decoration: none;
+  background-image:linear-gradient( orange, red );
+  font-weight: 600;
+  padding: 10px 25px;
+  border-radius: 5px;
+  
+
+}
+.top-baner{
+  background-image: url(image/top-banner.png);
+  background-repeat: no-repeat;
+}
+.deam-big{
+  background-image: url(image/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
